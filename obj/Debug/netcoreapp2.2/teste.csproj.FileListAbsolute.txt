@@ -1,0 +1,14 @@
+C:\Users\dikso\OneDrive\Área de Trabalho\TestesCSahrp\teste\bin\Debug\netcoreapp2.2\teste.deps.json
+C:\Users\dikso\OneDrive\Área de Trabalho\TestesCSahrp\teste\bin\Debug\netcoreapp2.2\teste.runtimeconfig.json
+C:\Users\dikso\OneDrive\Área de Trabalho\TestesCSahrp\teste\bin\Debug\netcoreapp2.2\teste.runtimeconfig.dev.json
+C:\Users\dikso\OneDrive\Área de Trabalho\TestesCSahrp\teste\bin\Debug\netcoreapp2.2\teste.dll
+C:\Users\dikso\OneDrive\Área de Trabalho\TestesCSahrp\teste\bin\Debug\netcoreapp2.2\teste.pdb
+C:\Users\dikso\OneDrive\Área de Trabalho\TestesCSahrp\teste\obj\Debug\netcoreapp2.2\teste.csprojAssemblyReference.cache
+C:\Users\dikso\OneDrive\Área de Trabalho\TestesCSahrp\teste\obj\Debug\netcoreapp2.2\teste.csproj.CoreCompileInputs.cache
+C:\Users\dikso\OneDrive\Área de Trabalho\TestesCSahrp\teste\obj\Debug\netcoreapp2.2\teste.RazorAssemblyInfo.cache
+C:\Users\dikso\OneDrive\Área de Trabalho\TestesCSahrp\teste\obj\Debug\netcoreapp2.2\teste.RazorAssemblyInfo.cs
+C:\Users\dikso\OneDrive\Área de Trabalho\TestesCSahrp\teste\obj\Debug\netcoreapp2.2\teste.AssemblyInfoInputs.cache
+C:\Users\dikso\OneDrive\Área de Trabalho\TestesCSahrp\teste\obj\Debug\netcoreapp2.2\teste.AssemblyInfo.cs
+C:\Users\dikso\OneDrive\Área de Trabalho\TestesCSahrp\teste\obj\Debug\netcoreapp2.2\teste.RazorTargetAssemblyInfo.cache
+C:\Users\dikso\OneDrive\Área de Trabalho\TestesCSahrp\teste\obj\Debug\netcoreapp2.2\teste.dll
+C:\Users\dikso\OneDrive\Área de Trabalho\TestesCSahrp\teste\obj\Debug\netcoreapp2.2\teste.pdb
